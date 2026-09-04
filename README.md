@@ -10,4 +10,4 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 the-difference self-supervised pre-training for anomaly detection and segmentation. ar
 Xiv preprint arXiv:2207.14315, 2022.
 
-
+Set de date si modele de antrenare: https://huggingface.co/deliabuzgaru/flawfinder-model
