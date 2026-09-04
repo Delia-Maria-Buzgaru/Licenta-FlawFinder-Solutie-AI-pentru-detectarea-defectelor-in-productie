@@ -1,0 +1,103 @@
+RAPORT STATISTICI SI SCORURI
+Obiect: CABLU | Algoritm: PaDiM
+Folder procesat: E:/Facultate/code/Licenta/Aplicatie/dataset/cablu/test/Anomaly
+------------------------------------------------------------
+NR. IMAGINI: 92
+MIN SCOR:    29.0969850610
+MAX SCOR:    68.9582240867
+MEDIE SCOR:  42.3208422335
+------------------------------------------------------------
+LISTA SCORURI INDIVIDUALE:
+bent_wire (1).png -> 52.3700501866
+bent_wire (2).png -> 49.0621652518
+bent_wire (3).png -> 48.0529596801
+bent_wire (4).png -> 53.8284725329
+bent_wire (5).png -> 68.9582240867
+bent_wire (6).png -> 48.8830265947
+bent_wire (7).png -> 51.1131871729
+bent_wire (8).png -> 56.8928829971
+bent_wire (9).png -> 41.8169966540
+bent_wire (10).png -> 51.7050394559
+bent_wire (11).png -> 55.2942839653
+bent_wire (12).png -> 60.8494953982
+bent_wire (13).png -> 47.8918797428
+cable_swap (1).png -> 33.5584962506
+cable_swap (2).png -> 39.3213431328
+cable_swap (3).png -> 38.5241031668
+cable_swap (4).png -> 38.2776611770
+cable_swap (5).png -> 31.0031890113
+cable_swap (6).png -> 36.8669941132
+cable_swap (7).png -> 29.0969850610
+cable_swap (8).png -> 30.0951895032
+cable_swap (9).png -> 34.1967726300
+cable_swap (10).png -> 36.0875441515
+cable_swap (11).png -> 37.6165504073
+cable_swap (12).png -> 32.0211290908
+combined (1).png -> 58.4287130300
+combined (2).png -> 59.0247359315
+combined (3).png -> 51.0720100319
+combined (4).png -> 41.1413947229
+combined (5).png -> 45.0998687570
+combined (6).png -> 33.7932336553
+combined (7).png -> 37.1049169820
+combined (8).png -> 36.3848185309
+combined (9).png -> 66.4248446224
+combined (10).png -> 39.2118499564
+combined (11).png -> 48.2158695926
+cut_inner_insulation (1).png -> 36.7330544990
+cut_inner_insulation (2).png -> 47.7681021177
+cut_inner_insulation (3).png -> 31.3741714589
+cut_inner_insulation (4).png -> 52.4680708277
+cut_inner_insulation (5).png -> 48.9076849177
+cut_inner_insulation (6).png -> 34.5223967833
+cut_inner_insulation (7).png -> 36.6372016391
+cut_inner_insulation (8).png -> 41.9096753173
+cut_inner_insulation (9).png -> 41.3220826608
+cut_inner_insulation (10).png -> 39.7945724478
+cut_inner_insulation (11).png -> 42.2527765294
+cut_inner_insulation (12).png -> 59.4335259447
+cut_inner_insulation (13).png -> 37.6366483879
+cut_inner_insulation (14).png -> 41.5486247273
+cut_outer_insulation (1).png -> 48.1713452124
+cut_outer_insulation (2).png -> 44.2453077681
+cut_outer_insulation (3).png -> 48.9967415855
+cut_outer_insulation (4).png -> 41.7523798543
+cut_outer_insulation (5).png -> 42.4072990324
+cut_outer_insulation (6).png -> 48.2900244623
+cut_outer_insulation (7).png -> 49.6012556701
+cut_outer_insulation (8).png -> 42.8524801047
+cut_outer_insulation (9).png -> 52.7631035585
+cut_outer_insulation (10).png -> 44.3331985475
+missing_cable (1).png -> 34.8287946040
+missing_cable (2).png -> 31.9121833811
+missing_cable (3).png -> 34.2893631833
+missing_cable (4).png -> 31.9171711830
+missing_cable (5).png -> 31.4767992915
+missing_cable (6).png -> 38.2693721942
+missing_cable (7).png -> 44.5674558930
+missing_cable (8).png -> 39.9462434230
+missing_cable (9).png -> 42.6082650901
+missing_cable (10).png -> 46.1877803427
+missing_cable (11).png -> 34.7664750743
+missing_cable (12).png -> 30.8393307031
+missing_wire (1).png -> 31.4026967503
+missing_wire (2).png -> 34.4387368773
+missing_wire (3).png -> 35.9341099860
+missing_wire (4).png -> 41.8573227102
+missing_wire (5).png -> 37.1294207906
+missing_wire (6).png -> 33.8681235885
+missing_wire (7).png -> 34.3984328689
+missing_wire (8).png -> 34.7100023134
+missing_wire (9).png -> 43.5848351055
+missing_wire (10).png -> 34.9058929977
+poke_insulation (1).png -> 46.0290191593
+poke_insulation (2).png -> 40.4295190690
+poke_insulation (3).png -> 40.7187409486
+poke_insulation (4).png -> 32.0656537928
+poke_insulation (5).png -> 35.2578901492
+poke_insulation (6).png -> 49.0922671093
+poke_insulation (7).png -> 41.9072203485
+poke_insulation (8).png -> 39.9773865720
+poke_insulation (9).png -> 50.6052086660
+poke_insulation (10).png -> 38.5871700355
+------------------------------------------------------------

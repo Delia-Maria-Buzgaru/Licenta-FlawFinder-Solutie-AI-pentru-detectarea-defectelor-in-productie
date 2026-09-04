@@ -1,0 +1,104 @@
+RAPORT STATISTICI SI SCORURI
+Obiect: PIULITA | Algoritm: PatchCore
+Folder procesat: E:/Facultate/code/Licenta/Aplicatie/dataset/piulita/test/Anomaly
+------------------------------------------------------------
+NR. IMAGINI: 93
+MIN SCOR:    -1.8259144007
+MAX SCOR:    11.8531275048
+MEDIE SCOR:  3.5497922587
+------------------------------------------------------------
+LISTA SCORURI INDIVIDUALE:
+scratch (1).png -> -1.8259144007
+scratch (2).png -> 1.4277585790
+scratch (3).png -> 1.8780818742
+scratch (4).png -> 1.2359610969
+scratch (5).png -> 1.4841429468
+scratch (6).png -> 0.7095939342
+scratch (7).png -> 3.5071420991
+scratch (8).png -> 4.2337403843
+scratch (9).png -> 3.3175371463
+scratch (10).png -> 3.4694566426
+scratch (11).png -> 2.1361192525
+scratch (12).png -> 3.7392435907
+scratch (13).png -> 3.8884007170
+scratch (14).png -> 4.0163570605
+scratch (15).png -> 1.9199434480
+scratch (16).png -> 5.7113505530
+scratch (17).png -> 2.5508112308
+scratch (18).png -> 2.1830795426
+scratch (19).png -> 4.0896249903
+scratch (20).png -> 0.8495874814
+scratch (21).png -> 0.1666199892
+scratch (22).png -> 1.6379971875
+scratch (23).png -> 0.6859455505
+flip (1).png -> 8.6672167096
+flip (2).png -> 11.4228246084
+flip (3).png -> 9.0261728530
+flip (4).png -> 8.4771775927
+flip (5).png -> 10.2106923077
+flip (6).png -> 10.1199438400
+flip (7).png -> 7.4310968344
+flip (8).png -> 11.8531275048
+flip (9).png -> 8.7895343450
+flip (10).png -> 9.7673726245
+flip (11).png -> 8.2408158643
+flip (12).png -> 9.5241429605
+flip (13).png -> 10.0085779977
+flip (14).png -> 9.1220037559
+flip (15).png -> 10.9287728332
+flip (16).png -> 9.3390804512
+flip (17).png -> 10.2390676546
+flip (18).png -> 9.2415807295
+flip (19).png -> 8.0300996752
+flip (20).png -> 10.9042344128
+flip (21).png -> 7.0219295961
+flip (22).png -> 6.9855873353
+flip (23).png -> 8.5744982216
+color (1).png -> 0.4935076761
+color (2).png -> 0.4170486391
+color (3).png -> 0.5611151896
+color (4).png -> 0.3703542746
+color (5).png -> 0.4255365501
+color (6).png -> 0.5773122295
+color (7).png -> 2.9339638903
+color (8).png -> 2.1330448269
+color (9).png -> 3.7427684617
+color (10).png -> 4.1056402239
+color (11).png -> 3.0889496715
+color (12).png -> 3.8074046636
+color (13).png -> 2.8339677241
+color (14).png -> 2.3221640584
+color (15).png -> 3.4499572410
+color (16).png -> 1.7450105332
+color (17).png -> 0.1911692638
+color (18).png -> 3.3487345609
+color (19).png -> -0.3538995237
+color (20).png -> 1.0433712650
+color (21).png -> 3.6353318058
+color (22).png -> 2.7045162275
+bent (1).png -> 0.4900072269
+bent (2).png -> 0.3576739651
+bent (3).png -> 0.8379600202
+bent (4).png -> 1.3604848293
+bent (5).png -> -0.0229768229
+bent (6).png -> 1.6017200513
+bent (7).png -> -0.0150967418
+bent (8).png -> 0.2711640258
+bent (9).png -> 1.9558732528
+bent (10).png -> -0.2369763791
+bent (11).png -> 0.6108107145
+bent (12).png -> 1.8058315168
+bent (13).png -> 0.0477539596
+bent (14).png -> 1.3005891582
+bent (15).png -> 0.2633463559
+bent (16).png -> 1.8683294599
+bent (17).png -> 0.0632753314
+bent (18).png -> 1.1508567643
+bent (19).png -> 2.4222172086
+bent (20).png -> 0.2784796934
+bent (21).png -> 0.8997253111
+bent (22).png -> -0.1362557014
+bent (23).png -> -0.1711760743
+bent (24).png -> 1.0660861956
+bent (25).png -> 1.5458756753
+------------------------------------------------------------

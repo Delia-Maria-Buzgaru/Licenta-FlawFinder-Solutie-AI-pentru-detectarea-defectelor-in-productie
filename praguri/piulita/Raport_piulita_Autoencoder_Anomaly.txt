@@ -1,0 +1,104 @@
+RAPORT STATISTICI SI SCORURI
+Obiect: PIULITA | Algoritm: Autoencoder
+Folder procesat: E:/Facultate/code/Licenta/Aplicatie/dataset/piulita/test/Anomaly
+------------------------------------------------------------
+NR. IMAGINI: 93
+MIN SCOR:    0.0012929814
+MAX SCOR:    0.0362903774
+MEDIE SCOR:  0.0073559946
+------------------------------------------------------------
+LISTA SCORURI INDIVIDUALE:
+scratch (1).png -> 0.0016137555
+scratch (2).png -> 0.0024840932
+scratch (3).png -> 0.0018857083
+scratch (4).png -> 0.0022787508
+scratch (5).png -> 0.0018221056
+scratch (6).png -> 0.0024227013
+scratch (7).png -> 0.0090552382
+scratch (8).png -> 0.0023377929
+scratch (9).png -> 0.0022094646
+scratch (10).png -> 0.0026338031
+scratch (11).png -> 0.0067423396
+scratch (12).png -> 0.0022224016
+scratch (13).png -> 0.0020785367
+scratch (14).png -> 0.0019602878
+scratch (15).png -> 0.0016239036
+scratch (16).png -> 0.0020188729
+scratch (17).png -> 0.0016207326
+scratch (18).png -> 0.0016292457
+scratch (19).png -> 0.0020489574
+scratch (20).png -> 0.0022243650
+scratch (21).png -> 0.0018002391
+scratch (22).png -> 0.0020820592
+scratch (23).png -> 0.0019817366
+flip (1).png -> 0.0223476868
+flip (2).png -> 0.0235107355
+flip (3).png -> 0.0220846087
+flip (4).png -> 0.0260241628
+flip (5).png -> 0.0179077201
+flip (6).png -> 0.0275714248
+flip (7).png -> 0.0188877434
+flip (8).png -> 0.0216310304
+flip (9).png -> 0.0271964967
+flip (10).png -> 0.0278664976
+flip (11).png -> 0.0230626464
+flip (12).png -> 0.0192025751
+flip (13).png -> 0.0232893638
+flip (14).png -> 0.0362903774
+flip (15).png -> 0.0282792486
+flip (16).png -> 0.0291968640
+flip (17).png -> 0.0167437289
+flip (18).png -> 0.0103188232
+flip (19).png -> 0.0180697087
+flip (20).png -> 0.0195886511
+flip (21).png -> 0.0169019178
+flip (22).png -> 0.0180049948
+flip (23).png -> 0.0228970479
+color (1).png -> 0.0012929814
+color (2).png -> 0.0018506537
+color (3).png -> 0.0023803206
+color (4).png -> 0.0013495339
+color (5).png -> 0.0017837451
+color (6).png -> 0.0016163916
+color (7).png -> 0.0028304893
+color (8).png -> 0.0026336841
+color (9).png -> 0.0021865522
+color (10).png -> 0.0040944596
+color (11).png -> 0.0046175565
+color (12).png -> 0.0025814432
+color (13).png -> 0.0027645603
+color (14).png -> 0.0020710796
+color (15).png -> 0.0021553016
+color (16).png -> 0.0020568778
+color (17).png -> 0.0019727764
+color (18).png -> 0.0033074438
+color (19).png -> 0.0016600126
+color (20).png -> 0.0017063505
+color (21).png -> 0.0020350339
+color (22).png -> 0.0021665802
+bent (1).png -> 0.0042333724
+bent (2).png -> 0.0014372028
+bent (3).png -> 0.0017574118
+bent (4).png -> 0.0022939134
+bent (5).png -> 0.0018342463
+bent (6).png -> 0.0023338541
+bent (7).png -> 0.0018864870
+bent (8).png -> 0.0022253704
+bent (9).png -> 0.0027453541
+bent (10).png -> 0.0021268073
+bent (11).png -> 0.0019201916
+bent (12).png -> 0.0028404561
+bent (13).png -> 0.0023322562
+bent (14).png -> 0.0035486501
+bent (15).png -> 0.0019661640
+bent (16).png -> 0.0020771385
+bent (17).png -> 0.0017497858
+bent (18).png -> 0.0017636968
+bent (19).png -> 0.0030891411
+bent (20).png -> 0.0028327019
+bent (21).png -> 0.0019088419
+bent (22).png -> 0.0020372751
+bent (23).png -> 0.0022829799
+bent (24).png -> 0.0020985664
+bent (25).png -> 0.0020206615
+------------------------------------------------------------

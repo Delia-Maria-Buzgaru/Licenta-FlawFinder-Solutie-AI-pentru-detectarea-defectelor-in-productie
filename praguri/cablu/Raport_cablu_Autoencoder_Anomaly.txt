@@ -1,0 +1,103 @@
+RAPORT STATISTICI SI SCORURI
+Obiect: CABLU | Algoritm: Autoencoder
+Folder procesat: E:/Facultate/code/Licenta/Aplicatie/dataset/cablu/test/Anomaly
+------------------------------------------------------------
+NR. IMAGINI: 92
+MIN SCOR:    0.0061125825
+MAX SCOR:    0.0167335179
+MEDIE SCOR:  0.0105798067
+------------------------------------------------------------
+LISTA SCORURI INDIVIDUALE:
+bent_wire (1).png -> 0.0092946291
+bent_wire (2).png -> 0.0066066412
+bent_wire (3).png -> 0.0068424605
+bent_wire (4).png -> 0.0089236163
+bent_wire (5).png -> 0.0088773714
+bent_wire (6).png -> 0.0144590652
+bent_wire (7).png -> 0.0084154299
+bent_wire (8).png -> 0.0098018264
+bent_wire (9).png -> 0.0061440310
+bent_wire (10).png -> 0.0101329014
+bent_wire (11).png -> 0.0086644134
+bent_wire (12).png -> 0.0138740018
+bent_wire (13).png -> 0.0086919134
+cable_swap (1).png -> 0.0126868505
+cable_swap (2).png -> 0.0103674009
+cable_swap (3).png -> 0.0100823361
+cable_swap (4).png -> 0.0103908693
+cable_swap (5).png -> 0.0090386681
+cable_swap (6).png -> 0.0142272068
+cable_swap (7).png -> 0.0077575310
+cable_swap (8).png -> 0.0120613538
+cable_swap (9).png -> 0.0103875939
+cable_swap (10).png -> 0.0113187460
+cable_swap (11).png -> 0.0096156690
+cable_swap (12).png -> 0.0065354309
+combined (1).png -> 0.0110880611
+combined (2).png -> 0.0081257839
+combined (3).png -> 0.0116870366
+combined (4).png -> 0.0070302710
+combined (5).png -> 0.0124597652
+combined (6).png -> 0.0139592122
+combined (7).png -> 0.0089105712
+combined (8).png -> 0.0077823065
+combined (9).png -> 0.0106021725
+combined (10).png -> 0.0123001263
+combined (11).png -> 0.0126620596
+cut_inner_insulation (1).png -> 0.0129435537
+cut_inner_insulation (2).png -> 0.0103435349
+cut_inner_insulation (3).png -> 0.0108984821
+cut_inner_insulation (4).png -> 0.0124343615
+cut_inner_insulation (5).png -> 0.0106426207
+cut_inner_insulation (6).png -> 0.0107043190
+cut_inner_insulation (7).png -> 0.0095480569
+cut_inner_insulation (8).png -> 0.0084581934
+cut_inner_insulation (9).png -> 0.0088314079
+cut_inner_insulation (10).png -> 0.0120519539
+cut_inner_insulation (11).png -> 0.0131625403
+cut_inner_insulation (12).png -> 0.0122845396
+cut_inner_insulation (13).png -> 0.0120855672
+cut_inner_insulation (14).png -> 0.0135767516
+cut_outer_insulation (1).png -> 0.0158998892
+cut_outer_insulation (2).png -> 0.0129492506
+cut_outer_insulation (3).png -> 0.0167335179
+cut_outer_insulation (4).png -> 0.0130345551
+cut_outer_insulation (5).png -> 0.0139836958
+cut_outer_insulation (6).png -> 0.0136513365
+cut_outer_insulation (7).png -> 0.0123329796
+cut_outer_insulation (8).png -> 0.0140877645
+cut_outer_insulation (9).png -> 0.0110248504
+cut_outer_insulation (10).png -> 0.0142852170
+missing_cable (1).png -> 0.0131037906
+missing_cable (2).png -> 0.0101186894
+missing_cable (3).png -> 0.0104389992
+missing_cable (4).png -> 0.0116618527
+missing_cable (5).png -> 0.0130397752
+missing_cable (6).png -> 0.0108461324
+missing_cable (7).png -> 0.0156879760
+missing_cable (8).png -> 0.0133688822
+missing_cable (9).png -> 0.0112948297
+missing_cable (10).png -> 0.0145187229
+missing_cable (11).png -> 0.0162350275
+missing_cable (12).png -> 0.0137282787
+missing_wire (1).png -> 0.0063113635
+missing_wire (2).png -> 0.0102406964
+missing_wire (3).png -> 0.0103442036
+missing_wire (4).png -> 0.0119975749
+missing_wire (5).png -> 0.0072931512
+missing_wire (6).png -> 0.0071327183
+missing_wire (7).png -> 0.0080786524
+missing_wire (8).png -> 0.0061125825
+missing_wire (9).png -> 0.0073000574
+missing_wire (10).png -> 0.0068774759
+poke_insulation (1).png -> 0.0076070651
+poke_insulation (2).png -> 0.0073058191
+poke_insulation (3).png -> 0.0096148290
+poke_insulation (4).png -> 0.0080328258
+poke_insulation (5).png -> 0.0084673502
+poke_insulation (6).png -> 0.0076971515
+poke_insulation (7).png -> 0.0078375861
+poke_insulation (8).png -> 0.0076786368
+poke_insulation (9).png -> 0.0079872292
+poke_insulation (10).png -> 0.0076280264
+------------------------------------------------------------

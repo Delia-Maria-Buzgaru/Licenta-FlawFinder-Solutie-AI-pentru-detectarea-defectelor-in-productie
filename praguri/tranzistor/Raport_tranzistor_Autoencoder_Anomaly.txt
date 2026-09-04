@@ -1,0 +1,51 @@
+RAPORT STATISTICI SI SCORURI
+Obiect: TRANZISTOR | Algoritm: Autoencoder
+Folder procesat: E:/Facultate/code/Licenta/Aplicatie/dataset/tranzistor/test/Anomaly
+------------------------------------------------------------
+NR. IMAGINI: 40
+MIN SCOR:    0.0007962414
+MAX SCOR:    0.0193135403
+MEDIE SCOR:  0.0044797652
+------------------------------------------------------------
+LISTA SCORURI INDIVIDUALE:
+bent_lead (1).png -> 0.0027686427
+bent_lead (2).png -> 0.0089776097
+bent_lead (3).png -> 0.0014017679
+bent_lead (4).png -> 0.0013878362
+bent_lead (5).png -> 0.0014373341
+bent_lead (6).png -> 0.0018010307
+bent_lead (7).png -> 0.0026784861
+bent_lead (8).png -> 0.0042616986
+bent_lead (9).png -> 0.0019503360
+bent_lead (10).png -> 0.0021782126
+cut_lead (1).png -> 0.0036851987
+cut_lead (2).png -> 0.0014208609
+cut_lead (3).png -> 0.0012312124
+cut_lead (4).png -> 0.0023034276
+cut_lead (5).png -> 0.0013611674
+cut_lead (6).png -> 0.0011265473
+cut_lead (7).png -> 0.0024819742
+cut_lead (8).png -> 0.0014981197
+cut_lead (9).png -> 0.0012788787
+cut_lead (10).png -> 0.0015125958
+damaged_case (1).png -> 0.0012865933
+damaged_case (2).png -> 0.0028543908
+damaged_case (3).png -> 0.0007962414
+damaged_case (4).png -> 0.0014670575
+damaged_case (5).png -> 0.0019505452
+damaged_case (6).png -> 0.0012277048
+damaged_case (7).png -> 0.0009333609
+damaged_case (8).png -> 0.0012251979
+damaged_case (9).png -> 0.0028483677
+damaged_case (10).png -> 0.0030368350
+misplaced (1).png -> 0.0053290427
+misplaced (2).png -> 0.0072407867
+misplaced (3).png -> 0.0117820483
+misplaced (4).png -> 0.0115554547
+misplaced (5).png -> 0.0141730001
+misplaced (6).png -> 0.0165706482
+misplaced (7).png -> 0.0058432845
+misplaced (8).png -> 0.0150292208
+misplaced (9).png -> 0.0193135403
+misplaced (10).png -> 0.0079843514
+------------------------------------------------------------
